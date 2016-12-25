@@ -1,0 +1,13 @@
+{
+  "name": "magical-player",
+  "version": "0.0.0",
+  "description": "MagicalPlayer",
+  "main": "server.js",
+  "author": {
+    "name": "test"
+  },
+  "dependencies": {
+    "ejs": "^2.5.5",
+    "mongodb": "^2.2.16"
+  }
+}
